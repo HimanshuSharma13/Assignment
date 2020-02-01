@@ -6,8 +6,8 @@ android {
         applicationId "com.assignment2"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 1
-        versionName "2.0"
+        versionCode 24
+        versionName "3.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
